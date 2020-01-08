@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" width="100">
 
 # Prework
-*Ironhack Data Analytics Bootcamp*
+*Ironhack Data Analytics Bootcamp* Beatriz
 
 ## Introduction
 This repository contains the prework for the Ironhack Data Analytics Bootcamp. 
